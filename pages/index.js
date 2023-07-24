@@ -1,5 +1,13 @@
+
 export default () => {
   return (
-<h1> Hello World</h1>
+   
+<div className="container-fluid">
+<div className= "mat">
+        <h1>What's Your Fortune?</h1>
+        <p>Ask the cookie!.</p>
+        </div>
+        </div>
+
 );
 }
